@@ -12,6 +12,7 @@ Clone the repository from Github
 
     $ git clone git://github.com/mhoofman/wordpress-heroku.git
 
+
 With the [Heroku gem](http://devcenter.heroku.com/articles/heroku-command), create your app
 
     $ cd wordpress-heroku
